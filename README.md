@@ -1,25 +1,3 @@
-<img align="right"
-src="https://user-images.githubusercontent.com/100549875/155941445-b1830713-5f9f-4903-9383-f36053a0775b.png"
-alt="Amity Social Cloud SDKs" width="50%" />
-
-<img align="left"
-src="https://user-images.githubusercontent.com/100549875/155947065-3cc4291c-d600-40a1-bc49-4ff5e9b9d1be.svg"
-alt="Amity logo" width="120px" />
-
-<br />
-<br />
-
-# Amity Social Cloud SDKs
-Boost app engagement and grow your user base with plug-and-play social
-features. Amity modules are <b>ready to use</b> — the only things left
-to do are integration and frontend.
-
-Learn more about Amity here: [amity.co→](https://amity.co/)
-
-<br />
-<br />
-
-
 # AmityUIKit OpenSource
 
 Our **AmityUIKit** include user interfaces to enable fast integration of standard 
@@ -168,17 +146,3 @@ website→](https://www.amity.co/video) or view the Amity
 Video [Docs→](https://docs.amity.co/video)
 
 <br />
-
-## About Amity
-The future is social — and we at Amity are on a mission to make social
-experiences more accessible than ever. Amity Social Cloud allows
-companies to easily integrate plug-and-play social features into their
-apps and digital channels to drive engagement, build communities, and
-grow revenue.
-
-<b>🟢 We're hiring!</b> View all [open positions→](https://www.amity.co/careers)
-
-<br />
-
-## License
-Public Framework. Copyright © 2022 Amity.

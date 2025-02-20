@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:AmityUIKit4/AmityUIKit4.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AmityUIKit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AmityUIKitLiveStream/AmityUIKitLiveStream.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SampleApp/SampleApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../SampleCode/SampleCode.xcodeproj">
+   </FileRef>
+</Workspace>
